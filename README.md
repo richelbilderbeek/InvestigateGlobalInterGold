@@ -2,6 +2,18 @@
 
 My notes on Global InterGold.
 
+## Registration at Companies House
+
+One can find it here: [https://beta.companieshouse.gov.uk/company/09608201](https://beta.companieshouse.gov.uk/company/09608201).
+
+The filing history shows, 
+
+ * at 19 Oct 2016, there is one shareholder, Rubin Sipkoski. Rubin Sipkoski followed a Scientology course [1]
+ * at July 11th 2017, the company was dissolved 
+
+
+[1]: http://www.truthaboutscientology.com/stats/by-name/r/rubin-sipkoski.html
+
 ## Are there any signs that GIG is a MLM-based pyramid scheme?
 
 List from [Bosley & McKeage, 2015]:
