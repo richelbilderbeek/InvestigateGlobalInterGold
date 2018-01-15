@@ -11,6 +11,7 @@ The filing history shows,
  * at 19 Oct 2016, there is one shareholder, Rubin Sipkoski. Rubin Sipkoski followed a Scientology course [1]
  * at July 11th 2017, the company was dissolved 
 
+There is a new registration: [here](https://beta.companieshouse.gov.uk/company/10200712/filing-history )
 
 [1]: http://www.truthaboutscientology.com/stats/by-name/r/rubin-sipkoski.html
 
