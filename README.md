@@ -15,6 +15,18 @@ There is a new registration: [here](https://beta.companieshouse.gov.uk/company/1
 
 [1]: http://www.truthaboutscientology.com/stats/by-name/r/rubin-sipkoski.html
 
+## Main office
+
+Address at Chamber of commerce registration:
+
+![](chamber_of_commerce_20180819.png)
+
+Office from [Google Maps](https://www.google.com/maps/@52.0392213,-0.7642793,3a,75y,310.03h,85.64t/data=!3m6!1e1!3m4!1s0-l268KzJh_qHdejEvoiUA!2e0!7i13312!8i6656):
+
+![](main_office_20180819_broad.png)
+
+![](main_office_20180819.png)
+
 ## Are there any signs that GIG is a MLM-based pyramid scheme?
 
 List from [Bosley & McKeage, 2015]:
