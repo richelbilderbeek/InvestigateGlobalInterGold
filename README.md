@@ -2,6 +2,7 @@
 
 My notes on Global InterGold.
 
+
 ## Registration at Companies House
 
 One can find it here: [https://beta.companieshouse.gov.uk/company/09608201](https://beta.companieshouse.gov.uk/company/09608201).
@@ -39,6 +40,19 @@ Office from [Google Maps](https://www.google.com/maps/@52.0392213,-0.7642793,3a,
 ![](former_main_office_20180819_broad.png)
 
 ![](former_main_office_20180819.png)
+
+## GIG-OS location
+
+I found the address of GIG-OS at [https://gig-os.com/en/contacts](https://gig-os.com/en/contacts):
+
+![Contact details at https://gig-os.com/en/contacts](gigos_address_20241031_address.png)
+
+> Contact details at [https://gig-os.com/en/contacts](https://gig-os.com/en/contacts)
+
+Going to [Google Streetview](https://www.google.com/maps/@42.6994446,23.3174282,3a,51.3y,282.54h,90.28t/data=!3m7!1e1!3m5!1somTYiT8Seg0Qqiql-EzWZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.2797572397127084%26panoid%3DomTYiT8Seg0Qqiql-EzWZQ%26yaw%3D282.5422412666633!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAyNy4wIKXMDSoASAFQAw%3D%3D),
+here is how the residence looks like:
+
+![The GIG OS main residence](gigos_address_20241031_residence.png)
 
 ## Are there any signs that GIG is a MLM-based pyramid scheme?
 
